@@ -814,7 +814,7 @@ a{
 }
 .adres_box p:nth-child(3){
 	font-size: 12px;
-	padding:18px 0 0 15%;
+/* 	padding:18px 0 0 15%; */
 	color:#1f1f1f;
 	padding:316px 0 0 17%;
 	width: 400px;

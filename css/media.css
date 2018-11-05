@@ -490,8 +490,12 @@
     		flex-direction: column;
 	}
 	.flex_center_on {
-    		padding: 180px 0 0 10%;
+    		padding: 180px 0 0 7%;
 	}
+	.flex_center_one {
+    		background-size:300px 106px  ;
+    		height: 320px;
+	}		
 	.flex_center_one_text p:last-child {
     		font-size: 14px;
 	}

@@ -855,7 +855,7 @@ a{
 	left: 50%; margin-left: -10px;
 	width: 20px;
 	height: 2px;
-	background-color: #222;
+	background-color: #f6fcfb;
 }
 .menu-btn span::before,
 .menu-btn span::after {

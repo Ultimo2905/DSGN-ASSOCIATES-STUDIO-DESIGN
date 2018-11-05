@@ -4,7 +4,7 @@
 	}
 	.cher_logo{
 		position: absolute;
-		opacity: 0; 
+		display: none; 
 		z-index: -1;
 	}
 	.logo_box {
@@ -374,7 +374,7 @@
 	}
 	.cher_logo {
     		position: absolute;
-		opacity: 0; 
+		display: none;
 		z-index: -1;
 	}
 	.info {

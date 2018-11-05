@@ -494,10 +494,14 @@
 	}
 	.flex_center_one {
     		background-size:300px 106px  ;
-    		height: 320px;
+    		height: 350px;
 	}		
 	.flex_center_one_text p:last-child {
     		font-size: 14px;
+	}
+	.flex_center_one_column {
+		flex-direction: column;
+    		padding: 45px 0 0 10px;
 	}
 	.f_c_o p:last-child {
     		font-size: 14px;

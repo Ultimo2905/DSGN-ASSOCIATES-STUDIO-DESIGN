@@ -23,24 +23,24 @@ a{
 }
 /*Arow in link*/
 .hide_arow a{  
-    transition: all .25s ease;
+  	transition: all .25s ease;
 	color: #fff;
-    text-decoration: none;
-    position: relative;
+    	text-decoration: none;
+    	position: relative;
  }
 .hide_arow a::before {
-    content: '';
-    background-image: url('../img/arrow_white.svg');
-    background-position: center center;
-    background-size: cover;
-    width: 23px;
-    height: auto;
-    position: absolute;
-    top: 0;
-    bottom: 0;
-    right: 0;
-    left: -30px;
-    opacity: 0;
+    	content: '';
+    	background-image: url('../img/arrow_white.svg');
+    	background-position: center center;
+    	background-size: cover;
+	width: 23px;
+	height: auto;
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	right: 0;
+	left: -30px;
+	opacity: 0;
  }  
 .second-link-arrow:hover::before,
 .third-link-arrow:hover::before, 
@@ -48,8 +48,8 @@ a{
 .fifth-link-arrow:hover::before,
 .first-link-arrow:hover::before{
 	color: #333;
-    font-weight: 700;
-    opacity: 1; 
+    	font-weight: 700;
+    	opacity: 1; 
 }
 /*End Arow in link*/
 
@@ -220,7 +220,7 @@ a{
 	position: absolute;
 }
 .cheir_five {
-    padding: 165px 10px 0 15%;
+    	padding: 165px 10px 0 15%;
 }
 .five_tex_column p:first-child{
 	font-size: 24px;

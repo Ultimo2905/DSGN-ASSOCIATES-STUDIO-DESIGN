@@ -21,6 +21,9 @@ a{
 	list-style: none;
 	text-decoration: none;
 }
+.hov:hover{
+	opacity: 0.7;
+}
 /*Arow in link*/
 .hide_arow a{  
   	transition: all .25s ease;

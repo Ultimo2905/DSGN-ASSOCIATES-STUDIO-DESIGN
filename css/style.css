@@ -841,6 +841,7 @@ a{
 	display: flex;
 	justify-content: center;
 	align-items: center;
+	position: absolute;
 }
 .menu-btn {
 	display: block;
@@ -883,11 +884,11 @@ a{
   	transform-origin: left top;
 }
 .menu-block {
-	position: relative;
+	position: absolute;
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	padding: 80px 28% 0 0;
+	padding: 200px 8% 0 160px;
 }
 .menu-nav a {
   	text-decoration: none;

@@ -889,6 +889,7 @@ a{
 	justify-content: center;
 	align-items: center;
 	padding: 200px 8% 0 160px;
+	width: max-content;
 }
 .menu-nav a {
   	text-decoration: none;

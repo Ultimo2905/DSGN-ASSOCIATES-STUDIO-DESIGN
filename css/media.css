@@ -388,7 +388,7 @@
 		flex-basis: 100%;
 	}
 	.menu-block {
-   		padding: 200px 0 0 200px;
+   		display: none;
 	}
 	.menu-nav a {
     		font-size: 20px;

@@ -179,6 +179,9 @@
     		padding: 15% 10px 0 25%;
    		width: 400px;
 	}
+	.menu-block {
+   		padding: 200px 8% 0 400px;
+	}
 	.info {
     		font-size: 18px;
 	}

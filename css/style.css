@@ -846,8 +846,8 @@ a{
 .menu-btn {
 	display: block;
 	position: relative;
-	width: 58px;
-	height: 58px;
+	width: 68px;
+	height: 68px;
 	border: 1px #f6fcfb solid;
 }
 .menu-btn span,
@@ -905,12 +905,12 @@ a{
   	transform-origin: right center;
   	opacity: 0;
   	visibility: hidden;
-  	height: 60px;
-  	line-height: 60px;
+  	height: 70px;
+  	line-height: 70px;
   	background-color: #fff;
   	padding-right: 10px;
   	padding-left: 10px;
-  	margin-right: -2px;
+     /* margin-right: -2px; */
 }
 .menu-nav_active {
   	transform: scaleX(1) translateX(0%);

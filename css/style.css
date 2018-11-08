@@ -909,7 +909,7 @@ a{
   	background-color: #fff;
   	padding-right: 10px;
   	padding-left: 10px;
-  	margin-right: -25px;
+  	margin-right: -2px;
 }
 .menu-nav_active {
   	transform: scaleX(1) translateX(0%);

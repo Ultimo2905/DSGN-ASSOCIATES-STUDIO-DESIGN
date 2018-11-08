@@ -378,7 +378,7 @@
 	}
 	.info {
     		font-size: 18px;
-    		padding: 80px 0 0 11%;
+    		padding: 200px 0 0 11%;
 	}
 	.phone{
 		font-size: 18px;
@@ -388,7 +388,7 @@
 		flex-basis: 100%;
 	}
 	.menu-block {
-   		padding: 80px 0 0 0;
+   		padding: 200px 0 0 200px;
 	}
 	.menu-nav a {
     		font-size: 20px;

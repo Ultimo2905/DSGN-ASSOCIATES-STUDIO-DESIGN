@@ -1,4 +1,4 @@
-# DZ-22.10.2018
+DSGN-ASSOCIATES-STUDIO-DESIGN
 Small description:
 
 1.	Transforming Hamburger Menu

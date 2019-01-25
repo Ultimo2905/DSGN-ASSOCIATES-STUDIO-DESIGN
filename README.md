@@ -10,4 +10,4 @@ Small description:
 6.  Anchors for links in the menu
 
 
-[Link](https://ultimo2905.github.io/DZ-22.10.2018/)
+[Link](https://ultimo2905.github.io/DSGN-ASSOCIATES-STUDIO-DESIGN/)

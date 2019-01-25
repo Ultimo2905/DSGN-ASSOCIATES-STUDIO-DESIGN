@@ -8,6 +8,7 @@ Small description:
 4.	SVG line
 5.  Layout on flex
 6.  Anchors for links in the menu
+7.  Favicon
 
 
 [Link](https://ultimo2905.github.io/DSGN-ASSOCIATES-STUDIO-DESIGN/)

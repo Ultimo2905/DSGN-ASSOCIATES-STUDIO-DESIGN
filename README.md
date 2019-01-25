@@ -12,3 +12,7 @@ Small description:
 
 
 [Link](https://ultimo2905.github.io/DSGN-ASSOCIATES-STUDIO-DESIGN/)
+
+
+Inline-style: 
+![alt text](https://github.com/Ultimo2905/DSGN-ASSOCIATES-STUDIO-DESIGN/blob/master/dsgn-preview.jpg)
